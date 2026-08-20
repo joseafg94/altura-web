@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/hero.webp" alt="Meniva" width="100%" />
+</p>
+
+<br />
+
 <div align="center">
 
 # ALTURA ARQUITECTURA
