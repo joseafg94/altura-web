@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.webp" alt="Meniva" width="100%" />
+  <img src="./assets/hero.webp" alt="Altura" width="100%" />
 </p>
 
 <br />
